@@ -1,0 +1,35 @@
+*margin{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.logo-photo{
+    width: 150px;
+}
+.menus{
+    display: flex;
+}
+.iteam{
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.iteam:hover{
+    color: blue;
+}
+.banner-img{
+    width: 300px;
+}
+.menu-container{
+    display: flex;
+}
